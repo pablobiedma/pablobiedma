@@ -4,7 +4,7 @@
 
 Hey 👋🏻,
 
-I am a Software Engineer from Spain 🇪🇸. Studying and living in The Netherlands 🇳🇱
+I am a Computer Science student from Spain 🇪🇸. Studying and living in The Netherlands 🇳🇱
 
 I am a Software Developer interested in movies and filmmaking 🎞️
 
