@@ -11,7 +11,7 @@ I am a Software Developer interested in movies and filmmaking 🎞️
 I develop (open source) software solutions for and with Java, Pyton, and JavaScript 👨‍💻
 
 
-![image](https://github.com/pablobiedma/pablobiedma/blob/master/gif.gif)
+![image](https://github.com/pablobiedma/pablobiedma/blob/master/pablo.gif)
 
 <p align="center"><samp>
 Check out my repos ⬇️  
