@@ -1,9 +1,10 @@
-### Hi there 👋, my name is Pablo
-#### I am a Software Developer
-![I am a Software Developer](https://pbs.twimg.com/media/EgVBsIrWkAAhrn0?format=jpg&name=small)
+# Hi, I'm Pablo 👋 👨‍💻
 
-When I was in highschool, I used to make movies as a hobby. I would write screenplays, call some friends, start recording, and edit everything. What I realized is that as much as I loved movies, I liked creating something new, something from scratch and on my own. That is the reason why I started programming.
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Pablo Biedma - software engineer, content creator and community organizer alongside a cartoon illustration of Pablo">
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
 
-Skills: Java / Python / JS / SQL / C++
 
-- 🔭 I’m currently working on this page. 
+## Find me around the web 🌎: <a href="https://github.com/sponsors/pablobiedma"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Read more about me on <a href="http://www.pablobiedma.com">my website</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/pablobiedma/">LinkedIn</a> 💼
